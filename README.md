@@ -1,21 +1,36 @@
 # Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners
 
 ![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
+https://www.youtube.com/watch?v=mJ3bGvy0WAY
 
-## Introduction
+## Review By Ids Achterhof of React Native Full Course
+I have found this course to be really useful.
+The YouTube video focuses on the 80% you are like to use every day.
 
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+### Efficient:
+It does not waste my time with setting up scaffolding as this is supplied in the starter kit.
 
-Alongside building this application, you'll also learn how to:
+### Depth:
+It does this by going deeper than other tutorials. 
+It not like those other video 1page, 1 call to the Backend videos.
 
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
+But it takes you through building multiple feature sections and pages with routing.
+Content:
+* Form page - A search section with multiple filters
+* Overview Page - For results of the search
+* Details Page 
+* Routing setup
+* Connecting to a Prod grade BE  
 
-## Want to land your dream programming job in 3 - 6 months?
+At the beginning of the video. The author goes through a number of tags and their uses.
+Which I especially like as it gives you a little look on the differences between React and React Native
 
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
+### Subject:
+For people that are interested in getting a React Native Job. Creating a showcase app that actually searches for these jobs
+by default. Is a nice side benefit. As they might actually find it while building the app.
+
+## My personal Review - Rating:
+Definitely worth watching and building, solid 9+ for me.
+
+ 
